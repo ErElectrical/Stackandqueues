@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Uc2_peek_pop/1.0.0": {
+        "runtime": {
+          "Uc2_peek_pop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc2_peek_pop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

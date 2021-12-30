@@ -1,0 +1,15 @@
+C:\Users\as\Desktop\.net\Uc2_peek_pop\bin\Debug\net6.0\Uc2_peek_pop.exe
+C:\Users\as\Desktop\.net\Uc2_peek_pop\bin\Debug\net6.0\Uc2_peek_pop.deps.json
+C:\Users\as\Desktop\.net\Uc2_peek_pop\bin\Debug\net6.0\Uc2_peek_pop.runtimeconfig.json
+C:\Users\as\Desktop\.net\Uc2_peek_pop\bin\Debug\net6.0\Uc2_peek_pop.dll
+C:\Users\as\Desktop\.net\Uc2_peek_pop\bin\Debug\net6.0\ref\Uc2_peek_pop.dll
+C:\Users\as\Desktop\.net\Uc2_peek_pop\bin\Debug\net6.0\Uc2_peek_pop.pdb
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.dll
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\ref\Uc2_peek_pop.dll
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.pdb
+C:\Users\as\Desktop\.net\Uc2_peek_pop\obj\Debug\net6.0\Uc2_peek_pop.genruntimeconfig.cache
